@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/maksscripter/AutorejoinBoostfpsAntiafk/a9dd1b80dfbe8f96e3a5f818d8ed808b21d37570/AutoRejoinAntiAfkBoostFps.txt"))()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimo3345/Rebirths/29548292edbdd743d70050920e10efb955242c3a/278c8c3ba1d9d3cb-5.txt"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/maksscripter/AutorejoinBoostfpsAntiafk/a9dd1b80dfbe8f96e3a5f818d8ed808b21d37570/AutoRejoinAntiAfkBoostFps.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimo3345/Rebirths/29548292edbdd743d70050920e10efb955242c3a/278c8c3ba1d9d3cb-5.txt"))()
